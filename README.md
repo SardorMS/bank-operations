@@ -34,7 +34,7 @@ func Total(amount int, currency string) (totalSum int) {
  git clone https://github.com/SardorMS/bank-operations
  ```
 
-2. Create a module bank-operations:
+2. Create a module named for example - "bank-operations":
  
  ```sh
  go mod init bank-operations
