@@ -9,7 +9,7 @@ This function is used to calculate the minimum and maximum deposit amount depend
 
 **Syntax:**
 ```
-func Calculate(amount int, currency string) (min int, max int){
+func Calculate(amount int, currency string) (min int, max int) {
 ...
 }
 ```
@@ -20,7 +20,7 @@ This function calculates the total amount when transferring funds from one card 
 
 **Syntax**
 ```
-func Total(amount int, currency string) (totalSum int){
+func Total(amount int, currency string) (totalSum int) {
 ...
 }
 ```
