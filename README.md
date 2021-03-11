@@ -31,7 +31,7 @@ func Total(amount int, currency string) (totalSum int) {
 
 1. Clone this code into a directory:
  ```
- git clone https://github.com/SardorMS/Bank-operations
+ git clone https://github.com/SardorMS/bank-operations
  ```
 
 2. Create a module bank-operations:
