@@ -40,11 +40,11 @@ func Total(amount int, currency string) (totalSum int) {
  go mod init bank-operations
  ``` 
  
-3. To RUN Example tests use:
+3. To RUN Example test use:
 ```sh
 go test -v ./...
 ```
 
-**Test Results**
+#Test Results
 
 ![alt tag]()
