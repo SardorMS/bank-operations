@@ -45,6 +45,16 @@ func Total(amount int, currency string) (totalSum int) {
 go test -v ./...
 ```
 
-#Test Results
 
-![alt tag]()
+# Test Results
+
+```
+=== RUN   ExampleCalculate
+--- PASS: ExampleCalculate (0.00s)
+PASS
+ok      bank/pkg/bank/deposit   0.114s
+=== RUN   ExampleTotal
+--- PASS: ExampleTotal (0.00s)
+PASS
+ok      bank/pk
+```
