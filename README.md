@@ -52,9 +52,9 @@ go test -v ./...
 === RUN   ExampleCalculate
 --- PASS: ExampleCalculate (0.00s)
 PASS
-ok      bank/pkg/bank/deposit   0.114s
+ok      bank-operations/pkg/bank/deposit   0.114s
 === RUN   ExampleTotal
 --- PASS: ExampleTotal (0.00s)
 PASS
-ok      bank/pk
+ok      bank-operations/pkg/bank/transfer  0.020s
 ```
